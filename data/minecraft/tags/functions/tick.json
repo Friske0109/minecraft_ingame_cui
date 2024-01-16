@@ -1,6 +1,7 @@
 {
     "values": [
     "keyboard:tick",
-    "display:tick"
+    "display:tick",
+    "mcc:tick"
     ]
 }

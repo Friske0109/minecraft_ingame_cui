@@ -1,6 +1,7 @@
 {
     "values": [
     "keyboard:load",
-    "display:load"
+    "display:load",
+    "mcc:load"
     ]
 }
